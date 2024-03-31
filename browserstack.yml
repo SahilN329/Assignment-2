@@ -1,0 +1,26 @@
+userName: sahilnair_687OXj
+accessKey: AnqFcVyhSBs9xdZZVSVQ
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Firefox
+    browserVersion: latest
+  - os: OS X
+    osVersion: Sonoma
+    browserName: Edge
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browserName: Edge
+    browserVersion: latest
+  - os: OS X
+    osVersion: Sonoma
+    browserName: Chrome
+    browserVersion: latest
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
